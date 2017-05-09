@@ -1,0 +1,41 @@
+
+.encabezado
+{
+	background-color: pink;
+	border:2px solid green;
+}
+.nombre
+{
+	text-align: center;
+}
+.pic
+{
+	width: 50%;
+	float:left;
+}
+.imagen
+{
+	width: 50%;
+	border-radius: 50%;
+}
+.informacion
+{
+	width: 50%;
+	background-color: brown;
+	float: right;
+}
+.datos
+{
+	font-size: 5;
+	color: yellow;
+}
+.adicion
+{
+	width: 100%;
+	background-color: skyblue;
+	float: right;
+}
+.direccion
+{
+	font-size: 2; color: red;
+}
